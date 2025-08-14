@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/bagusahmadka/bagusahmadka/blob/main/bagus-1.jpg" width="200" />
+</p>
 <h1 align="center">Hi, I'm Bagus Ahmad Khoirul Ato'</h1>
 <p align="center">
   <i>Full-Stack Developer | AI Enthusiast | Tech Educator</i><br>
