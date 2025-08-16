@@ -4,8 +4,8 @@
 <h1 align="center">Hi, I'm Bagus Ahmad Khoirul Ato'</h1>
 <p align="center">
   <i>Full-Stack Developer | AI Enthusiast | Tech Educator</i><br>
-  <a href="https://www.linkedin.com/in/bagus-ahmad-khoirul-ato">LinkedIn</a> • 
-  <a href="https://www.instagram.com/bagusahmaad">Instagram</a>
+  <a href="https://www.linkedin.com/in/bagus-ahmad-khoirul-ato-70a13b2ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> • 
+  <a href="https://www.instagram.com/bagusahmaad?igsh=cHc3NGx5a3J0ZnV5">Instagram</a>
 </p>
 
 <p align="center">
